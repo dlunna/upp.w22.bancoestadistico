@@ -1,0 +1,335 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+                  <div class="table-responsive">
+                    <p class="h6">LISTA DE FUNCIONARIOS</p>
+                                <table class="table table-hover table-striped table-sm">
+                      <thead>
+                        <tr>
+                          <th scope="col">#</th>
+                          <th scope="col">Funcionario</th>
+                          <th scope="col">Cargo</th>
+                          <th scope="col">Activo</th>
+                          <!--<th scope="col">Borrar</th>-->
+                        </tr>
+                      </thead>
+                      <tbody>
+                                        <tr ><td scope="row">1</td>
+                          <td>JOSÚE ROMÁN MARTÍNEZ MIRELES</td>
+                          <td>SECRETARÍA U HOMÓLOGO SECRETARIO ACADÉMICO</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">2</td>
+                          <td>JORGE ALFREDO FERNÁNDEZ SALAS</td>
+                          <td>SECRETARÍA U HOMÓLOGO SECRETARIO ADMINISTRATIVO</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">3</td>
+                          <td>CRISTINA CORTÉS MONTAÑO</td>
+                          <td>CONTRALORÍA INTERNA U HOMÓLOGO ÓRGANO INTERNO DE CONTROL</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">4</td>
+                          <td>AZUCENA PONCE FIGUEROA</td>
+                          <td>DIRECCIÓN U HOMÓLOGO DIRECTORA DE LOGÍSTICA</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">5</td>
+                          <td>SALVADOR JIMÉNEZ BARRIOS</td>
+                          <td>ABOGADO(A) U HOMÓLOGO ABOGADO GENERAL</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">6</td>
+                          <td>ALDA NELLY FERNÁNDEZ SÁNCHEZ</td>
+                          <td>DIRECCIÓN U HOMÓLOGO DIRECTORA DE VINCULACIÓN</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">7</td>
+                          <td>EDUARDO RUBÉN HERRERA RIVAS</td>
+                          <td>DIRECCIÓN U HOMÓLOGO DIRECTOR DE COMUNICACIÓN SOCIAL</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">8</td>
+                          <td>MARCO ANTONIO GARCÍA MÁRQUEZ</td>
+                          <td>DIRECCIÓN U HOMÓLOGO DIRECTOR DE LA DIVISIÓN DE ESTUDIOS PROFESIONALES</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">9</td>
+                          <td>FRANCISCO RAFAEL TREJO MACOTELA</td>
+                          <td>DIRECCIÓN U HOMÓLOGO DIRECTOR DE INVESTIGACIÓN, INNOVACIÓN Y POSGRADO</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">10</td>
+                          <td>JUAN MANUEL MONTES MONROY</td>
+                          <td>DIRECCIÓN U HOMÓLOGO DIRECTOR  DE PLANEACIÓN</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">11</td>
+                          <td>MAYRA FABIOLA GONZÁLEZ PERALTA</td>
+                          <td>DIRECCIÓN U HOMÓLOGO DIRECTORA DEL PROGRAMA EDUCATIVO DE INGENIERÍA EN SOFTWARE</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">12</td>
+                          <td>MIGUEL ÁNGEL TORRES GONZÁLEZ</td>
+                          <td>DIRECCIÓN U HOMÓLOGO DIRECTOR DEL PROGRAMA EDUCATIVO DE INGENIERÍA FINANCIERA</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">13</td>
+                          <td>MIGUEL ÁNGEL AGUILERA JÍMÉNEZ</td>
+                          <td>DIRECCIÓN U HOMÓLOGO DIRECTOR DEL PROGRAMA EDUCATIVO DE INGENIERÍA EN MECATRÓNICA</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">14</td>
+                          <td>ALEJANDRINA GÓMEZ VALADEZ</td>
+                          <td>DIRECCIÓN U HOMÓLOGO DIRECTORA DEL PROGRAMA EDUCATIVO DE INGENIERÍA EN BIOTECNOLOGÍA</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">15</td>
+                          <td>ALBERTO HERNÁNDEZ MORALES</td>
+                          <td>DIRECCIÓN U HOMÓLOGO DIRECTOR DEL PROGRAMA EDUCATIVO DE INGENIERÍA MECÁNICA AUTOMOTRIZ</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">16</td>
+                          <td>ROSA MARÍA CHÍO AUSTRIA</td>
+                          <td>DIRECCIÓN U HOMÓLOGO DIRECTORA DEL PROGRAMA EDUCATIVO DE LA LICENCIATURA EN TERAPIA FÍSICA</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">17</td>
+                          <td>IZTMITL ORTIZ HERNÁNDEZ</td>
+                          <td>DIRECCIÓN U HOMÓLOGO DIRECTORA DEL PROGRAMA EDUCATIVO DE INGENIERÍA BIOMÉDICA</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">18</td>
+                          <td>BRENDA BERENICE GARCÍA ESCORZA</td>
+                          <td>COORDINACIÓN U HOMÓLOGO COORDINADORA DE LA LICENCIATURA EN MÉDICO CIRUJANO</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">19</td>
+                          <td>MARCO ANTONIO VERA JIMÉNEZ</td>
+                          <td>COORDINACIÓN U HOMÓLOGO COORDINADOR DEL CENTRO DE PATENTAMIENTO</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">20</td>
+                          <td>JUAN MANUEL SÁNCHEZ VALENCIA</td>
+                          <td>SUBDIRECCIÓN U HOMÓLOGO ENCARGADO DE LA SUBDIRECCIÓN DE COMUNICACIÓN SOCIAL</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">21</td>
+                          <td>MARÍA GUADALUPE FLORES PÉREZ</td>
+                          <td>COORDINACIÓN U HOMÓLOGO COORDINADORA DE GESTIÓN Y CALIDAD EDUCATIVA</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">22</td>
+                          <td>ALEJANDRA HERNÁNDEZ ESPINOSA</td>
+                          <td>COORDINACIÓN U HOMÓLOGO COORDINADORA DE POSGRADO EN DIDÁCTICA Y CIENCIAS</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">23</td>
+                          <td>JORGE ÁLVAREZ CERVANTES</td>
+                          <td>COORDINACIÓN U HOMÓLOGO COORDINADOR DEL POSGRADO EN BIOTECNOLOGÍA</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">24</td>
+                          <td>JUAN BENITO PASCUAL FRANCISCO</td>
+                          <td>COORDINACIÓN U HOMÓLOGO COORDINADOR DEL POSGRADO EN MECATRÓNICA</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">25</td>
+                          <td>AGUSTÍN MEJÍA CRUZ</td>
+                          <td>SUBDIRECCIÓN U HOMÓLOGO SUBDIRECTOR DE RECURSOS FINANCIEROS</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">26</td>
+                          <td>MA. DEL CARMEN RIVERA MADRIGAL</td>
+                          <td>SUBDIRECCIÓN U HOMÓLOGO SUBDIRECTORA DE CALIDAD</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">27</td>
+                          <td>JUAN LOZANO PÉREZ</td>
+                          <td>SUBDIRECCIÓN U HOMÓLOGO SUBDIRECTOR DE PLANEACIÓN Y PRESUPUESTO</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">28</td>
+                          <td>JOSE RAUL DOSSETTI VARGAS</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFE DE DEPARTAMENTO DE LA UNIDAD DE PROMOCIÓN Y DESARROLLO ESTUDIANTIL</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">29</td>
+                          <td>LUCIA BRIONES HERNÁNDEZ</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFA DE DEPARTAMENTO DE PROGRAMAS ESPECIALES</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">30</td>
+                          <td>LOURDES GUADALUPE ÁREVALO BAENA</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFA DEL DEPARTAMENTO DE VINCULACIÓN Y EXTENSIÓN</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">31</td>
+                          <td>AHSURE TATIANA FLORES PÉREZ</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFA DEL DEPARTAMENTO JURÍDICO</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">32</td>
+                          <td>JHONATHAN GONZALO GODÍNEZ CRUZ</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFE DEL DEPARTAMENTO DE LOGÍSTICA</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">33</td>
+                          <td>JULIO CÉSAR SALAS LÓPEZ</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFE DEL DEPARTAMENTO DE ANÁLISIS Y DESARROLLO DE SISTEMAS DE INFORMACIÓN</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">34</td>
+                          <td>FÉLIX ALBERTO HERNÁNDEZ RODRÍGUEZ</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFE DEL DEPARTAMENTO DE IDIOMAS Y LENGUAS</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">35</td>
+                          <td>MARY CARMEN BAENA SÁNCHEZ</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFA DEL DEPARTAMENTO DE DESARROLLO ACADÉMICO</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">36</td>
+                          <td>MIGUEL ÁNGEL VALDIVIESO RODRÍGUEZ</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO ENCARGADO DEL DEPARTAMENTO DE SERVICIOS BIBLIOTECARIOS</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">37</td>
+                          <td>NANCY JUDITH CORTES MARTÍNEZ</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFA DEL DEPARTAMENTO DE ACTIVIDADES CULTURALES, DEPORTIVAS Y RECREATIVAS</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">38</td>
+                          <td>GERARDO ESQUIVEL MARTÍNEZ</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFE DEL DEPARTAMENTO DE INTERNACIONALIZACIÓN</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">39</td>
+                          <td>CARLOS ERNESTO CADENA VIZCAYA</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFE DEL DEPARTAMENTO DE EDUCACIÓN A DISTANCIA</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">40</td>
+                          <td>JESÚS EDUARDO JUARICO GUASO</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFE DEL DEPARTAMENTO DE INCUBACIÓN DE EMPRESAS</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">41</td>
+                          <td>RÓMULO RODRÍGUEZ OLVERA</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFE DEL DEPARTAMENTO DE CONTABILIDAD</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">42</td>
+                          <td>ELIZABETH REYES TINAJAR</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFA DEL DEPARTAMENTO DE RECURSOS HUMANOS</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">43</td>
+                          <td>LIZETH GUADALUPE HERNÁNDEZ ACUÑA</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFE DEL DEPARTAMENTO DE ATENCIÓN Y PROMOCIÓN DE LA SALUD</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">44</td>
+                          <td>CÉSAR HUGO DORANTES CASTILLO</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFE DEL DEPARTAMENTO DE MANTENIMIENTO Y SERVICIOS GENERALES</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">45</td>
+                          <td>JOSÉ ENOCH MORENO ALFARO</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFE DEL DEPARTAMENTO DE ADMINISTRACIÓN DEL POLIDEPORTIVO PLATA</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">46</td>
+                          <td>DONACIANO MORENO CALVA</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFE DEL DEPARTAMENTO DE ADQUISICIÓN, BIENES Y SERVICIOS</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">47</td>
+                          <td>JUAN MANUEL HERNÁNDEZ CASTILLO</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFE DEL DEPARTAMENTO DE INFRAESTRUCTURA</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">48</td>
+                          <td>DAVID LUNA CRUZ</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFE DEL DEPARTAMENTO DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">49</td>
+                          <td>MARGARITA SÁNCHEZ DÍAZ</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFA DEL DEPARTAMENTO DE SERVICIOS ESCOLARES</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">50</td>
+                          <td>GUADALUPE PROA DE LA FUENTE</td>
+                          <td>JEFATURA DE DEPARTAMENTO U HOMÓLOGO JEFA DEL DEPARTAMENTO DE EVALUACIÓN Y ESTADÍSTICAS</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">51</td>
+                          <td>MAYRA FABIOLA GONZÁLEZ PERALTA</td>
+                          <td>DIRECCIÓN U HOMÓLOGO ENCARGADA DE LA  DIRECCIÓN DEL PROGRAMA EDUCATIVO DE INGENIERÍA EN TELEMÁTICA</td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                        <tr ><td scope="row">52</td>
+                          <td>ARTURO AUSTRIA CORNEJO</td>
+                          <td>COORDINACIÓN U HOMÓLOGO </td>
+                          <td>SI</td>
+                          <!--<td></td>-->
+                        </tr>
+                                      </tbody>
+                    </table>
+                  </div>
+</body>
+</html>

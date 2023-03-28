@@ -1,0 +1,272 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+                  <div class="table-responsive">
+                    <p class="h6">MATRÍCULA POR PROGRAMA EDUCATIVOS</p>
+                                <div id="datos">
+                                    <table class="table table-hover table-striped table-sm">
+                      <thead>
+                        <tr>
+                          <th scope="col">#</th>
+                          <th scope="col">Unidad Académica</th>
+                          <th scope="col">Programa Educativo</th>
+                          <th scope="col">Modalidad</th>
+                          <th scope="col">CIES</th>
+                          <th scope="col">COPAES</th>
+                          <th scope="col">PNPC</th>
+                          <th scope="col">Activo</th>
+                          <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                          <th scope="col"></th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                                        <tr><td scope="row">1</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA BIOMÉDICA</td>
+                          <td>NORMAL</td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>210</td>
+                          <td>171</td>
+                          <td>381</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">2</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN BIOTECNOLOGÍA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>317</td>
+                          <td>151</td>
+                          <td>468</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">3</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA FINANCIERA</td>
+                          <td>NORMAL</td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>271</td>
+                          <td>193</td>
+                          <td>464</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">4</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN MECÁNICA AUTOMOTRIZ</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>42</td>
+                          <td>635</td>
+                          <td>677</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">5</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN MECATRÓNICA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>70</td>
+                          <td>399</td>
+                          <td>469</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">6</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN REDES Y TELECOMUNICACIONES</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>24</td>
+                          <td>69</td>
+                          <td>93</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">7</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN SISTEMAS Y TECNOLOGÍAS INDUSTRIALES</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>22</td>
+                          <td>38</td>
+                          <td>60</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">8</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN SOFTWARE</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>56</td>
+                          <td>269</td>
+                          <td>325</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">9</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN TELEMÁTICA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>1</td>
+                          <td>9</td>
+                          <td>10</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">10</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td> MÉDICO CIRUJANO</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>239</td>
+                          <td>123</td>
+                          <td>362</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">11</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>LICENCIATURA EN TERAPIA FÍSICA</td>
+                          <td>NORMAL</td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>722</td>
+                          <td>275</td>
+                          <td>997</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">12</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA EN BIOTECNOLOGÍA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>12</td>
+                          <td>1</td>
+                          <td>13</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">13</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA EN ENSEÑANZA DE LAS CIENCIAS</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>3</td>
+                          <td>1</td>
+                          <td>4</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">14</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA EN FINANZAS Y GESTIÓN</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>4</td>
+                          <td>8</td>
+                          <td>12</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">15</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA EN MECATRÓNICA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>0</td>
+                          <td>10</td>
+                          <td>10</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">16</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA EN TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>2</td>
+                          <td>9</td>
+                          <td>11</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">17</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>DOCTORADO EN CIENCIAS EN BIOTECNOLOGÍA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>13</td>
+                          <td>5</td>
+                          <td>18</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">18</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>DOCTORADO EN CIENCIAS Y TECNOLOGÍAS AVANZADAS</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>2</td>
+                          <td>2</td>
+                          <td>4</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td colspan="8">Total</td>
+                          <td>2010</td>
+                          <td>2368</td>
+                          <td>4378</td>
+                          <td></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                                    </div>
+                  </div>
+</body>
+</html>
