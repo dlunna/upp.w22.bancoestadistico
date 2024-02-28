@@ -18,8 +18,9 @@
     <!-- Logos e imagen de hidalgo -->
     <?php
     //include ('../lib18/seph/hf/header.html');
-  	 	include ('../lib20/hgo/header.html');
+  	//include ('../lib20/hgo/header.html');
   	?>
+    <?php include ('../lib20/hgo/veda_navbar.html'); ?>
     <!-- Slider principal -->
     <?php include ('./dotk/01header/01carousel-principal/carousel.html'); ?>
   </header>
@@ -42,7 +43,8 @@
   <footer>
     <!-- footer de gobierno del estado -->
     <?php //include ('../lib20/seph/hf/footer.html'); ?>
-    <?php include ('../lib20/hgo/footer.html'); ?>
+    <?php //include ('../lib20/hgo/footer.html'); ?>
+    <?php include ('../lib20/hgo/veda_footer.html'); ?>
   </footer>
 
   <?php
