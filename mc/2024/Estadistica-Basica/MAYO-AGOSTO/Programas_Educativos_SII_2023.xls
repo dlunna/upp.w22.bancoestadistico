@@ -1,0 +1,280 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+
+                  <div class="table-responsive">
+                    <p class="h6">LISTA DE PROGRAMAS EDUCATIVOS </p>
+                    <div id="datos">
+                                                  <table class="table table-hover table-striped table-sm">
+                      <thead>
+                        <tr>
+                          <th scope="col">#</th>
+                          <th scope="col">Universidad</th>
+                          <th scope="col">Unidad Académica</th>
+                          <th scope="col">Nivel</th>
+                          <th scope="col">Programa Educativo</th>
+                          <th scope="col">Modalidad</th>
+                          <th scope="col">CIEES</th>
+                          <th scope="col">COPAES</th>
+                          <th scope="col">PNPC</th>
+                          <th scope="col">Actualización</th>
+                          <th scope="col">Status</th>
+                          <th scope="col"></th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                                        <tr><td scope="row">1</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA</td>
+                          <td>BIOMÉDICA</td>
+                          <td>NORMAL</td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#ff0000"></i></td>
+                          <td></td>
+                          <td></td>
+                          <td>2018-09-01</td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">2</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA</td>
+                          <td>BIOTECNOLOGÍA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#ff0000"></i></td>
+                          <td></td>
+                          <td>2018-09-01</td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">3</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA</td>
+                          <td>FINANCIERA</td>
+                          <td>NORMAL</td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#ff0000"></i></td>
+                          <td></td>
+                          <td></td>
+                          <td>2018-09-01</td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">4</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA</td>
+                          <td>MECÁNICA AUTOMOTRIZ</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td>2018-09-01</td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">5</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA</td>
+                          <td>MECATRÓNICA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#ff0000"></i></td>
+                          <td></td>
+                          <td>2018-09-01</td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">6</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA</td>
+                          <td>REDES Y TELECOMUNICACIONES</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td>2018-09-01</td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">7</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA</td>
+                          <td>SISTEMAS Y TECNOLOGÍAS INDUSTRIALES</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">8</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA</td>
+                          <td>SOFTWARE</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td>2018-09-01</td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">9</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA</td>
+                          <td>TELEMÁTICA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">10</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td></td>
+                          <td>MÉDICO CIRUJANO</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">11</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>LICENCIATURA</td>
+                          <td>TERAPIA FÍSICA</td>
+                          <td>NORMAL</td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">12</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>ESPECIALIDAD</td>
+                          <td>BIOTECNOLOGÍA AMBIENTAL</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">13</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA</td>
+                          <td>BIOTECNOLOGÍA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#ffff00"></i></td>
+                          <td>2017-09-01</td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">14</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA</td>
+                          <td>ENSEÑANZA DE LAS CIENCIAS</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">15</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA</td>
+                          <td>FINANZAS Y GESTIÓN</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">16</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA</td>
+                          <td>MECATRÓNICA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td>2017-09-01</td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">17</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA</td>
+                          <td>TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td>2017-09-01</td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">18</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>DOCTORADO</td>
+                          <td>CIENCIAS EN BIOTECNOLOGÍA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#ffff00"></i></td>
+                          <td>2017-09-01</td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">19</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>DOCTORADO</td>
+                          <td>CIENCIAS Y TECNOLOGÍAS AVANZADAS</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td>ACTIVO</td>
+                          <td></td>
+                        </tr>
+                                      </tbody>
+                    </table>
+                    </div><!-- datos -->
+                  </div><!-- responsive -->
+</body>
+</html>

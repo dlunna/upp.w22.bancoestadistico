@@ -1,0 +1,305 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+                  <div class="table-responsive">
+                    <p class="h6">MATRÍCULA POR PROGRAMA EDUCATIVOS 2023 - 3</p>
+                                <div id="datos">
+                                    <table class="table table-hover table-striped table-sm">
+                      <thead>
+                        <tr>
+                          <th scope="col">#</th>
+                          <th scope="col">Universidad</th>
+                          <th scope="col">Unidad Académica</th>
+                          <th scope="col">Programa Educativo</th>
+                          <th scope="col">Modalidad</th>
+                          <th scope="col">CIES</th>
+                          <th scope="col">COPAES</th>
+                          <th scope="col">PNPC</th>
+                          <th scope="col">Activo</th>
+                          <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                          <th scope="col"></th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                                        <tr><td scope="row">1</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA BIOMÉDICA</td>
+                          <td>NORMAL</td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#ff0000"></i></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>223</td>
+                          <td>181</td>
+                          <td>404</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">2</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN BIOTECNOLOGÍA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#ff0000"></i></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>180</td>
+                          <td>104</td>
+                          <td>284</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">3</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA FINANCIERA</td>
+                          <td>NORMAL</td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#ff0000"></i></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>236</td>
+                          <td>184</td>
+                          <td>420</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">4</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN MECÁNICA AUTOMOTRIZ</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>30</td>
+                          <td>582</td>
+                          <td>612</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">5</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN MECATRÓNICA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#ff0000"></i></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>66</td>
+                          <td>289</td>
+                          <td>355</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">6</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN REDES Y TELECOMUNICACIONES</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>14</td>
+                          <td>42</td>
+                          <td>56</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">7</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN SISTEMAS Y TECNOLOGÍAS INDUSTRIALES</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>45</td>
+                          <td>71</td>
+                          <td>116</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">8</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN SOFTWARE</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>81</td>
+                          <td>325</td>
+                          <td>406</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">9</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN TELEMÁTICA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>0</td>
+                          <td>1</td>
+                          <td>1</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">10</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td> MÉDICO CIRUJANO</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>287</td>
+                          <td>117</td>
+                          <td>404</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">11</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>LICENCIATURA EN TERAPIA FÍSICA</td>
+                          <td>NORMAL</td>
+                          <td><i class="mdi mdi-checkbox-blank-circle" style="font-size:.7rem;color:#00ff00"></i></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>618</td>
+                          <td>250</td>
+                          <td>868</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">12</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>ESPECIALIDAD EN BIOTECNOLOGÍA AMBIENTAL</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">13</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA EN BIOTECNOLOGÍA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>9</td>
+                          <td>8</td>
+                          <td>17</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">14</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA EN ENSEÑANZA DE LAS CIENCIAS</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>1</td>
+                          <td>0</td>
+                          <td>1</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">15</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA EN FINANZAS Y GESTIÓN</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>3</td>
+                          <td>2</td>
+                          <td>5</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">16</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA EN MECATRÓNICA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>2</td>
+                          <td>8</td>
+                          <td>10</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">17</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA EN TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>3</td>
+                          <td>6</td>
+                          <td>9</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">18</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>DOCTORADO EN CIENCIAS EN BIOTECNOLOGÍA</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>4</td>
+                          <td>2</td>
+                          <td>6</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td scope="row">19</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>DOCTORADO EN CIENCIAS Y TECNOLOGÍAS AVANZADAS</td>
+                          <td>NORMAL</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>SI</td>
+                          <td>5</td>
+                          <td>11</td>
+                          <td>16</td>
+                          <td></td>
+                        </tr>
+                                        <tr><td colspan="9">Total</td>
+                          <td>1807</td>
+                          <td>2183</td>
+                          <td>3990</td>
+                          <td></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                                    </div>
+                  </div>
+</body>
+</html>

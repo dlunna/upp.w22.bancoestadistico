@@ -1,0 +1,1683 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+                  <div class="table-responsive">
+                    <p class="h6">ALUMNOS BECADOS POR PROGRAMA EDUCATIVOS Y TIPO DE BECA 2023 - 3</p>
+                                <div id="datos">
+                                    <table class="table table-hover table-striped table-sm">
+                      <thead>
+                        <tr>
+                          <th scope="col" rowspan="2" style="vertical-align:middle;">#</th>
+                          <th scope="col" rowspan="2" style="vertical-align:middle;">Universidad</th>
+                          <th scope="col" rowspan="2" style="vertical-align:middle;">Unidad Académica</th>
+                          <th scope="col" rowspan="2" style="vertical-align:middle;">Programa Educativo</th>
+                          <th scope="col" rowspan="2" style="vertical-align:middle;">Modalidad</th>
+                          <!--<th scope="col">CIES</th>
+                          <th scope="col">COPAES</th>
+                          <th scope="col">PNPC</th>
+                          <th scope="col">Activo</th>-->
+                                            <th scope="col" colspan="3">CNBES</th>
+                                            <th scope="col" colspan="3">CNBBBJ</th>
+                                            <th scope="col" colspan="3">Gobierno Estatal</th>
+                                            <th scope="col" colspan="3">Colegiatura</th>
+                                            <th scope="col" colspan="3">Parcial o Total</th>
+                                            <th scope="col" colspan="3">Excelencia</th>
+                                            <th scope="col" colspan="3">Titulación</th>
+                                            <th scope="col" colspan="3">Investigación</th>
+                                            <th scope="col" colspan="3">Alimenticia</th>
+                                            <th scope="col" colspan="3">Transporte</th>
+                                            <th scope="col" colspan="3">Artistica, Deportiva y Cultural</th>
+                                            <th scope="col" colspan="3">Trabajo</th>
+                                            <th scope="col" colspan="3">Manutención</th>
+                                            <th scope="col" colspan="3">Hospedaje</th>
+                                            <th scope="col" colspan="3">Proyecta 100 Mil</th>
+                                            <th scope="col" colspan="3">Jovenes Construyendo el Futuro</th>
+                                            <th scope="col" colspan="3">Jovenes Escribiendo el Futuro</th>
+                                            <th scope="col" colspan="3">Becalos</th>
+                                            <th scope="col" colspan="3">Movilidad Internacional</th>
+                                            <th scope="col" colspan="3">Movilidad Nacional</th>
+                                            <th scope="col" colspan="3">Otra del Gobierno Federal</th>
+                                            <th scope="col" colspan="3">Otra del Gobierno Estatal</th>
+                                            <th scope="col" colspan="3">Otra de Ente Privado</th>
+                                          <th scope="col" colspan="3">TOTAL</th>
+                        </tr>
+                        <tr>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                                            <th scope="col">M</th>
+                          <th scope="col">H</th>
+                          <th scope="col">Total</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                                        <tr><td scope="row">1</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA BIOMÉDICA</td>
+                          <td>NORMAL</td>
+                                            <td>3</td>
+                          <td>0</td>
+                          <td>3</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>3</td>
+                          <td>0</td>
+                          <td>3</td>
+                        </tr>
+                                        <tr><td scope="row">2</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN BIOTECNOLOGÍA</td>
+                          <td>NORMAL</td>
+                                            <td>1</td>
+                          <td>1</td>
+                          <td>2</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>1</td>
+                          <td>1</td>
+                          <td>2</td>
+                        </tr>
+                                        <tr><td scope="row">3</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA FINANCIERA</td>
+                          <td>NORMAL</td>
+                                            <td>0</td>
+                          <td>2</td>
+                          <td>2</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>2</td>
+                          <td>2</td>
+                        </tr>
+                                        <tr><td scope="row">4</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN MECÁNICA AUTOMOTRIZ</td>
+                          <td>NORMAL</td>
+                                            <td>8</td>
+                          <td>0</td>
+                          <td>8</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>8</td>
+                          <td>0</td>
+                          <td>8</td>
+                        </tr>
+                                        <tr><td scope="row">5</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN MECATRÓNICA</td>
+                          <td>NORMAL</td>
+                                            <td>1</td>
+                          <td>2</td>
+                          <td>3</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>1</td>
+                          <td>2</td>
+                          <td>3</td>
+                        </tr>
+                                        <tr><td scope="row">6</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN REDES Y TELECOMUNICACIONES</td>
+                          <td>NORMAL</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                        </tr>
+                                        <tr><td scope="row">7</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN SISTEMAS Y TECNOLOGÍAS INDUSTRIALES</td>
+                          <td>NORMAL</td>
+                                            <td>2</td>
+                          <td>2</td>
+                          <td>4</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>2</td>
+                          <td>2</td>
+                          <td>4</td>
+                        </tr>
+                                        <tr><td scope="row">8</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN SOFTWARE</td>
+                          <td>NORMAL</td>
+                                            <td>2</td>
+                          <td>6</td>
+                          <td>8</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>2</td>
+                          <td>6</td>
+                          <td>8</td>
+                        </tr>
+                                        <tr><td scope="row">9</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>INGENIERÍA EN TELEMÁTICA</td>
+                          <td>NORMAL</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                        </tr>
+                                        <tr><td scope="row">10</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td> MÉDICO CIRUJANO</td>
+                          <td>NORMAL</td>
+                                            <td>9</td>
+                          <td>3</td>
+                          <td>12</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>9</td>
+                          <td>3</td>
+                          <td>12</td>
+                        </tr>
+                                        <tr><td scope="row">11</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>LICENCIATURA EN TERAPIA FÍSICA</td>
+                          <td>NORMAL</td>
+                                            <td>7</td>
+                          <td>1</td>
+                          <td>8</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>7</td>
+                          <td>1</td>
+                          <td>8</td>
+                        </tr>
+                                        <tr><td scope="row">12</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>ESPECIALIDAD EN BIOTECNOLOGÍA AMBIENTAL</td>
+                          <td>NORMAL</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                        </tr>
+                                        <tr><td scope="row">13</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA EN BIOTECNOLOGÍA</td>
+                          <td>NORMAL</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>11</td>
+                          <td>6</td>
+                          <td>17</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>11</td>
+                          <td>6</td>
+                          <td>17</td>
+                        </tr>
+                                        <tr><td scope="row">14</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA EN ENSEÑANZA DE LAS CIENCIAS</td>
+                          <td>NORMAL</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                        </tr>
+                                        <tr><td scope="row">15</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA EN FINANZAS Y GESTIÓN</td>
+                          <td>NORMAL</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                        </tr>
+                                        <tr><td scope="row">16</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA EN MECATRÓNICA</td>
+                          <td>NORMAL</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>2</td>
+                          <td>8</td>
+                          <td>10</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>2</td>
+                          <td>8</td>
+                          <td>10</td>
+                        </tr>
+                                        <tr><td scope="row">17</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>MAESTRÍA EN TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES</td>
+                          <td>NORMAL</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>3</td>
+                          <td>6</td>
+                          <td>9</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>3</td>
+                          <td>6</td>
+                          <td>9</td>
+                        </tr>
+                                        <tr><td scope="row">18</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>DOCTORADO EN CIENCIAS EN BIOTECNOLOGÍA</td>
+                          <td>NORMAL</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>6</td>
+                          <td>2</td>
+                          <td>8</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>6</td>
+                          <td>2</td>
+                          <td>8</td>
+                        </tr>
+                                        <tr><td scope="row">19</td>
+                          <td>UNIVERSIDAD POLITÉCNICA DE PACHUCA</td>
+                          <td>CAMPUS CENTRAL</td>
+                          <td>DOCTORADO EN CIENCIAS Y TECNOLOGÍAS AVANZADAS</td>
+                          <td>NORMAL</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>5</td>
+                          <td>8</td>
+                          <td>13</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>5</td>
+                          <td>8</td>
+                          <td>13</td>
+                        </tr>
+                                        <tr><td colspan="5">Total</td>
+                                            <td>33</td>
+                          <td>17</td>
+                          <td>50</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>27</td>
+                          <td>30</td>
+                          <td>57</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>0</td>
+                          <td>0</td>
+                          <td>0</td>
+                                            <td>60</td>
+                          <td>47</td>
+                          <td>107</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                                    </div>
+                  </div>
+</body>
+</html>

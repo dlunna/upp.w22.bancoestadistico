@@ -1,0 +1,132 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+              <div class="card">
+                <div class="card-body">
+                  <div class="table-responsive">
+                                <p class="h5">DOCENTES  DEL CICLO ESCOLAR: 2023 - 2024 PERIODO: May-Ags</p>
+                                <div id="datos">
+                                                  <div class="form-row">
+                        <div class="form-group col-md-2">
+                          <label for="_region" class="label-sm">REGIÓN: </label>
+                          <select name='_region' id='_region' class='form-control form-control-sm select'><option value='NADA' selected='selected'>Seleccione</option><option value='1' title=''>NOROESTE</option><option value='2' title=''>NORESTE</option><option value='3' title=''>OCCIDENTE</option><option value='4' title=''>CENTRO</option><option value='5' title=''>SUR-SURESTE</option></select>                        </div>
+                        <div class="form-group col-md-3">
+                          <label for="_entidad" class="label-sm">ENTIDAD: </label>
+                          <select name='_entidad' id='_entidad' class='form-control form-control-sm select'><option value='NADA' selected='selected'>Seleccione</option><option value='1' title=''>AGUASCALIENTES</option><option value='2' title=''>BAJA CALIFORNIA</option><option value='3' title=''>BAJA CALIFORNIA SUR</option><option value='4' title=''>CAMPECHE</option><option value='5' title=''>CHIAPAS</option><option value='6' title=''>CHIHUAHUA</option><option value='7' title=''>COAHUILA</option><option value='8' title=''>COLIMA</option><option value='9' title=''>DISTRITO FEDERAL</option><option value='10' title=''>DURANGO</option><option value='11' title=''>GUANAJUATO</option><option value='12' title=''>GUERRERO</option><option value='13' title=''>HIDALGO</option><option value='14' title=''>JALISCO</option><option value='15' title=''>ESTADO DE MÉXICO</option><option value='16' title=''>MICHOACÁN</option><option value='17' title=''>MORELOS</option><option value='18' title=''>NAYARIT</option><option value='19' title=''>NUEVO LEÓN</option><option value='20' title=''>OAXACA</option><option value='21' title=''>PUEBLA</option><option value='22' title=''>QUERÉTARO</option><option value='23' title=''>QUINTANA ROO</option><option value='24' title=''>SAN LUIS POTOSÍ</option><option value='25' title=''>SINALOA</option><option value='26' title=''>SONORA</option><option value='27' title=''>TABASCO</option><option value='28' title=''>TAMAULIPAS</option><option value='29' title=''>TLAXCALA</option><option value='30' title=''>VERACRUZ</option><option value='31' title=''>YUCATÁN</option><option value='32' title=''>ZACATECAS</option><option value='99' title=''>FICTICIO</option></select>                        </div>
+                        <div class="form-group col-md-2">
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="_ut" value="UT" >
+                            <label class="form-check-label label-md" for="_ut">Tecnológicas</label>
+                          </div>
+                          <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" id="_up" value="UP" >
+                            <label class="form-check-label" for="_up">Politécnicas</label>
+                          </div>
+                        </div>
+                        <div class="form-group col-md-5">
+                          <label for="UUTTyPP" class="label-sm">UNIVERSIDAD</label>
+                          <div id="UUTTyPPs">
+                          <select name='_UUTTyPP' id='_UUTTyPP' class='form-control form-control-sm select'><option value='NADA' selected='selected'>Seleccione</option></select>                          </div>
+                        </div>
+                      </div>
+                                  <table class="table table-striped table-sm">
+                      <thead>
+                        <!--<tr align="center">
+                          <th scope="col" colspan="3" rowspan="2" style="border:1px solid #e3e3e3;vertical-align:middle;">Tiempo Dedicación</th>
+                          <th scope="col" colspan="2" rowspan="2" style="border:1px solid #e3e3e3;vertical-align:middle;">Técnico</th>
+                          <th scope="col" colspan="4" style="border:1px solid #e3e3e3;vertical-align:middle;">TSU</th>
+                          <th scope="col" colspan="2" rowspan="2" style="border:1px solid #e3e3e3;vertical-align:middle;">Ingeniería Técnica</th>
+                          <th scope="col" colspan="4" style="border:1px solid #e3e3e3;vertical-align:middle;">Licenciatura</th>
+                          <th scope="col" colspan="2" rowspan="2" style="border:1px solid #e3e3e3;vertical-align:middle;">Especialidad</th>
+                          <th scope="col" colspan="4" style="border:1px solid #e3e3e3;vertical-align:middle;">Maestría</th>
+                          <th scope="col" colspan="4" style="border:1px solid #e3e3e3;vertical-align:middle;">Doctorado</th>
+                          <th scope="col" rowspan="3" style="border:1px solid #e3e3e3;vertical-align:middle;">Total</th>
+                        </tr>-->
+                        <tr align="center">
+                          <th scope="col" colspan="3" rowspan="2" style="border:1px solid #e3e3e3;vertical-align:middle;">Tiempo Dedicación</th>
+                          <!--<th scope="col" colspan="2" style="border:1px solid #e3e3e3;vertical-align:middle;">PROMEP</th>-->
+                          <th scope="col" colspan="2" style="border:1px solid #e3e3e3;vertical-align:middle;background-color:rgba(0,0,0,.05);">Docentes</th>
+                          <th scope="col" style="border:1px solid #e3e3e3;vertical-align:middle;">Total</th>
+                        </tr>
+                        <tr align="center">
+                                            <th scope="col" style="border:1px solid #e3e3e3;vertical-align:middle;background-color:rgba(0,0,0,.05);">M</th>
+                          <th scope="col" style="border:1px solid #e3e3e3;vertical-align:middle;background-color:rgba(0,0,0,.05);">H</th>
+                                            <!--<th scope="col" style="border:1px solid #e3e3e3;vertical-align:middle;">M</th>
+                          <th scope="col" style="border:1px solid #e3e3e3;vertical-align:middle;">H</th>
+                          <th scope="col" style="border:1px solid #e3e3e3;vertical-align:middle;">M</th>
+                          <th scope="col" style="border:1px solid #e3e3e3;vertical-align:middle;">H</th>-->
+                        </tr>
+                      </thead>
+                      <tbody>
+                                        <tr>
+                                          <th scope="row" rowspan="6" style="vertical-align:middle;"><p class="verticalText">Tiempo Completo</p></th>
+                                          <th scope="row" rowspan="3" style="vertical-align:middle;"><p class="verticalText">Titular</p></th>
+                                          <th scope="row">A</th>                          <td align="center" style="background-color:rgba(0,0,0,.05);">14</td>
+                          <td align="center" style="background-color:rgba(0,0,0,.05);">12</td>
+                          <td align="center">26</td>
+                        </tr>
+                                        <tr>
+                                          <th scope="row">B</th>                          <td align="center" style="background-color:rgba(0,0,0,.05);">20</td>
+                          <td align="center" style="background-color:rgba(0,0,0,.05);">33</td>
+                          <td align="center">53</td>
+                        </tr>
+                                        <tr>
+                                          <th scope="row">C</th>                          <td align="center" style="background-color:rgba(0,0,0,.05);">6</td>
+                          <td align="center" style="background-color:rgba(0,0,0,.05);">12</td>
+                          <td align="center">18</td>
+                        </tr>
+                                        <tr>
+                                          <th scope="row" rowspan="3" style="vertical-align:middle;"><p class="verticalText">Asociado</p></th>
+                                          <th scope="row">A</th>                          <td align="center" style="background-color:rgba(0,0,0,.05);">0</td>
+                          <td align="center" style="background-color:rgba(0,0,0,.05);">0</td>
+                          <td align="center">0</td>
+                        </tr>
+                                        <tr>
+                                          <th scope="row">B</th>                          <td align="center" style="background-color:rgba(0,0,0,.05);">0</td>
+                          <td align="center" style="background-color:rgba(0,0,0,.05);">0</td>
+                          <td align="center">0</td>
+                        </tr>
+                                        <tr>
+                                          <th scope="row">C</th>                          <td align="center" style="background-color:rgba(0,0,0,.05);">20</td>
+                          <td align="center" style="background-color:rgba(0,0,0,.05);">17</td>
+                          <td align="center">37</td>
+                        </tr>
+                                        <tr>
+                                          <th scope="row" colspan="3">3/4 Tiempo</th>
+                                          <td align="center" style="background-color:rgba(0,0,0,.05);">0</td>
+                          <td align="center" style="background-color:rgba(0,0,0,.05);">0</td>
+                          <td align="center">0</td>
+                        </tr>
+                                        <tr>
+                                          <th scope="row" colspan="3">Medio Tiempo</th>
+                                          <td align="center" style="background-color:rgba(0,0,0,.05);">0</td>
+                          <td align="center" style="background-color:rgba(0,0,0,.05);">0</td>
+                          <td align="center">0</td>
+                        </tr>
+                                        <tr>
+                                          <th scope="row" colspan="3">Asignatura (Horas)</th>
+                                          <td align="center" style="background-color:rgba(0,0,0,.05);">79</td>
+                          <td align="center" style="background-color:rgba(0,0,0,.05);">74</td>
+                          <td align="center">153</td>
+                        </tr>
+                                        <tr>
+                                          <th scope="row" colspan="3">Técnico Académico</th>
+                                          <td align="center" style="background-color:rgba(0,0,0,.05);">10</td>
+                          <td align="center" style="background-color:rgba(0,0,0,.05);">7</td>
+                          <td align="center">17</td>
+                        </tr>
+                                        <tr><th scope="col" colspan="3">Total</th>
+                                            <td align="center" style="background-color:rgba(0,0,0,.05);">149</td>
+                          <td align="center" style="background-color:rgba(0,0,0,.05);">155</td>
+                                          <td align="center">304</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                                  </div>
+                  </div>
+                </div>
+              </div>
+</body>
+</html>
